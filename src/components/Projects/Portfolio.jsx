@@ -37,6 +37,15 @@ const Portfolio = () => {
       technologies: 'React | Redux | JSON Server | Styled Components | ',
       link: 'https://olxclone-krishna123.netlify.app/',
       github: 'https://github.com/shivraj32644/Olx-Clone',
+    },
+    {
+      id: 3,
+      title: 'NETMEDS',
+      img: IMG3,
+      description: 'Netmeds is one of India’s most trusted pharmacies, dispensing quality medicines at reasonable prices to over 7 million happy customers – PAN India.',
+      technologies: 'React | Redux | Javascript | React.js | Chakra UI | Redux | Mongo Db |  Express',
+      link: 'https://netmeds-4.netlify.app/',
+      github: 'https://github.com/Akshaypareek01/Netmeds_Full-stack',
     }
   ];
 
@@ -52,7 +61,7 @@ const Portfolio = () => {
               <img src={pro.img} alt={pro.title} />
             </div>
             <div className="portfolio__item-content">
-              <h3>{pro.title}</h3>
+              <h3 >{pro.title}</h3>
               <p>{pro.description}</p>
               <p>{pro.technologies}</p>
             </div>

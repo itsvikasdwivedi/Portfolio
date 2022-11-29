@@ -39,6 +39,9 @@ const Contact = () => {
         <div className="contact__options">
           <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
+      <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="itsvikasdwivedi" data-version="v1">
+        <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/itsvikasdwivedi?trk=profile-badge">Vikas Dwivedi</a>
+      </div>
             <h4>Email</h4>
             <h5>vickyserver22@gmail.com</h5>
             <a href="mailto:vickyserver22@gmail.com">Send a message</a>

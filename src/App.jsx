@@ -4,7 +4,7 @@ import Experience from './Components/Experience/Experience';
 import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import Intro from './Components/Intro/Intro';
-import Portfolio from './Components/Portfolio/Portfolio';
+import Portfolio from './Components/Projects/Portfolio';
 import Topbar from './Components/Topbar/Topbar';
 
 
