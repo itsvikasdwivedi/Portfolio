@@ -2,7 +2,7 @@ import React from 'react';
 import IMG1 from '../../Assets/Shine.png';
 import IMG2 from '../../Assets/Rodan.png';
 import IMG3 from '../../Assets/olx.png';
-
+import IMG4 from '../../Assets/netmeds.png';
 
 import './portfolio.css';
 
@@ -41,7 +41,7 @@ const Portfolio = () => {
     {
       id: 3,
       title: 'NETMEDS',
-      img: IMG3,
+      img: IMG4,
       description: 'Netmeds is one of India’s most trusted pharmacies, dispensing quality medicines at reasonable prices to over 7 million happy customers – PAN India.',
       technologies: 'React | Redux | Javascript | React.js | Chakra UI | Redux | Mongo Db |  Express',
       link: 'https://netmeds-4.netlify.app/',
