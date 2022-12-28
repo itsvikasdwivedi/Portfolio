@@ -26,7 +26,7 @@ const Portfolio = () => {
       description:
         'Rodan & Fields is an American MLM Company specializing in skincare products.',
       technologies: 'Tech Stack :  HTML | CSS | JavaScript | JSON Server | Heroku ',
-      link: 'https://effortless-kataifi-dd52d4.netlify.app/landingpage/landing',
+      link: 'https://rodan-clone.netlify.app/',
       github: 'https://github.com/itsvikasdwivedi/Team-Rodan',
     },
     {
