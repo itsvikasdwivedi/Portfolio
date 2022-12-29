@@ -17,7 +17,7 @@ const Portfolio = () => {
         ,
       technologies: 'Tech Stack : HTML | CSS | JavaScript',
       link: 'https://shine-akash.netlify.app/',
-      github: 'https://github.com/itsvikasdwivedi/Shine.com',
+      github: 'https://github.com/web-dev-akash/Team_Shine',
     },
     {
       id: 2,
@@ -36,7 +36,7 @@ const Portfolio = () => {
       description: 'The OLX is a platform for buying and selling services and goods such as electronics, fashion items, furniture, household goods, cars and bikes.',
       technologies: 'React | Redux | JSON Server | Styled Components | ',
       link: 'https://olx-clone-by-team-olx.netlify.app/',
-      github: 'https://github.com/itsvikasdwivedi/Olx-Clone',
+      github: 'https://github.com/shivraj32644/Olx-Clone',
     },
     {
       id: 3,
@@ -45,7 +45,7 @@ const Portfolio = () => {
       description: 'Netmeds is one of India’s most trusted pharmacies, dispensing quality medicines at reasonable prices to over 7 million happy customers – PAN India.',
       technologies: 'React | Redux | Javascript | React.js | Chakra UI | Redux | Mongo Db |  Express',
       link: 'https://netmeds-4.netlify.app/',
-      github: 'https://github.com/itsvikasdwivedi/Netmeds_Full-stack',
+      github: 'https://github.com/Akshaypareek01/Netmeds_Full-stack',
     }
   ];
 
