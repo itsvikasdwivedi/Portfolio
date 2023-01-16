@@ -3,8 +3,9 @@ import IMG1 from '../../Assets/Shine.png';
 import IMG2 from '../../Assets/Rodan.png';
 import IMG3 from '../../Assets/olx.png';
 import IMG4 from '../../Assets/netmeds.png';
-
+import IMG5 from '../../Assets/crypto.png';
 import './portfolio.css';
+
 
 const Portfolio = () => {
   const teamProjects = [
@@ -29,23 +30,32 @@ const Portfolio = () => {
       link: 'https://rodan-clone.netlify.app/',
       github: 'https://github.com/itsvikasdwivedi/Team-Rodan',
     },
-    // {
-    //   id: 3,
-    //   title: 'OLX.IN',
-    //   img: IMG3,
-    //   description: 'The OLX is a platform for buying and selling services and goods such as electronics, fashion items, furniture, household goods, cars and bikes.',
-    //   technologies: 'React | Redux | JSON Server | Styled Components | ',
-    //   link: 'https://olx-clone-by-team-olx.netlify.app/',
-    //   github: 'https://github.com/shivraj32644/Olx-Clone',
-    // },
+    {
+      id: 3,
+      title: 'OLX.IN',
+      img: IMG3,
+      description: 'The OLX is a platform for buying and selling services and goods such as electronics, fashion items, furniture, household goods, cars and bikes.',
+      technologies: 'Tech Stack : React | Redux | JSON Server | Styled Components | ',
+      link: 'https://olx-clone-by-team-olx.netlify.app/',
+      github: 'https://github.com/shivraj32644/Olx-Clone',
+    },
     {
       id: 3,
       title: 'NETMEDS',
       img: IMG4,
-      description: 'Netmeds is one of India’s most trusted pharmacies, dispensing quality medicines at reasonable prices to over 7 million happy customers – PAN India.',
-      technologies: 'React | Redux | Javascript | React.js | Chakra UI | Redux | Mongo Db |  Express',
+      description: 'Netmeds is one of India’s most trusted pharmacies, dispensing quality medicines at reasonable prices.',
+      technologies: ' Tech Stack : React | Redux | Javascript | React.js | Chakra UI | Redux | Mongo Db |  Express',
       link: 'https://netmeds-4.netlify.app/',
       github: 'https://github.com/Akshaypareek01/Netmeds_Full-stack',
+    },
+    {
+      id: 4,
+      title: 'Crypto App',
+      img: IMG5,
+      description: 'App where user can get all the information about their favorite crypto currencies',
+      technologies: 'Tech Stack : React | Redux | React-Chart Js | Material UI ',
+      link: 'https://crypto-bhaskar.netlify.app/',
+      github: 'https://github.com/itsvikasdwivedi/Crypto-App'
     }
   ];
 
