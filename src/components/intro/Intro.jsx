@@ -28,9 +28,9 @@ const Intro = () => {
               <small>3 Completed Projects</small>
             </article>
           </div>
-          <p>An Aspiring Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
+          <p>A Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
             I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript,React JS, Chakra-UI,MAterial-UI , MongoDb, NodeJS and many more, building everything from landing pages to APIs.</p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">Hire Me</a>
         </div>
       </div>
     </section>
