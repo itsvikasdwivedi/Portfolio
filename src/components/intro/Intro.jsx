@@ -29,7 +29,7 @@ const Intro = () => {
             </article>
           </div>
           <p>An Aspiring Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
-            I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript,React JS, Chakra-UI and many more building everything from landing pages to APIs.</p>
+            I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript,React JS, Chakra-UI,MAterial-UI , MongoDb, NodeJS and many more, building everything from landing pages to APIs.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
