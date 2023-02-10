@@ -25,7 +25,7 @@ const Intro = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>3 Completed Projects</small>
+              <small>3+ Completed Projects</small>
             </article>
           </div>
           <p>A Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
