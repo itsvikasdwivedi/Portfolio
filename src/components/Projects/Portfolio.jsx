@@ -1,8 +1,9 @@
 import React from 'react';
-import IMG2 from '../../Assets/Rodan.png';
-import IMG3 from '../../Assets/olx.png';
-import IMG4 from '../../Assets/netmeds.png';
-import IMG5 from '../../Assets/crypto.png';
+import IMG1 from '../../Assets/Rodan.png';
+import IMG2 from '../../Assets/olx.png';
+import IMG3 from '../../Assets/netmeds.png';
+import IMG4 from '../../Assets/crypto.png';
+import IMG5 from '../../Assets/weather.png';
 import './portfolio.css';
 
 
@@ -11,7 +12,7 @@ const Portfolio = () => {
     {
       id: 1,
       title: 'RODAN & FEILDS',
-      img: IMG2,
+      img: IMG1,
       description:
         'Rodan & Fields is an American MLM Company specializing in skincare products.',
       technologies: 'Tech Stack :  HTML | CSS | JavaScript | JSON Server | Heroku ',
@@ -21,7 +22,7 @@ const Portfolio = () => {
     {
       id: 2,
       title: 'OLX.IN',
-      img: IMG3,
+      img: IMG2,
       description: 'The OLX is a platform for buying and selling services and goods such as electronics, fashion items, furniture, household goods, cars and bikes.',
       technologies: 'Tech Stack : React | Redux | JSON Server | Styled Components | ',
       link: 'https://olx-cloneone.netlify.app/',
@@ -30,7 +31,7 @@ const Portfolio = () => {
     {
       id: 3,
       title: 'NETMEDS',
-      img: IMG4,
+      img: IMG3,
       description: 'Netmeds is one of India’s most trusted pharmacies, dispensing quality medicines at reasonable prices.',
       technologies: ' Tech Stack : React | Redux | Javascript | React.js | Chakra UI | Redux | Mongo Db |  Express',
       link: 'https://netmeds-4.netlify.app/',
@@ -39,11 +40,20 @@ const Portfolio = () => {
     {
       id: 4,
       title: 'Crypto App',
-      img: IMG5,
+      img: IMG4,
       description: 'App where user can get all the information about their favorite crypto currencies',
       technologies: 'Tech Stack : React | Redux | React-Chart Js | Material UI ',
       link: 'https://crypto-bhaskar.netlify.app/',
       github: 'https://github.com/itsvikasdwivedi/Crypto-App'
+    },
+    {
+      id: 5,
+      title: 'Weather App',
+      img: IMG5,
+      description: 'Weather App where user can get real time data of their current location',
+      technologies: 'Tech Stack : React | React Animated Weather | Weather API',
+      link: 'https://jazzy-starship-b83aef.netlify.app/',
+      github: 'https://github.com/itsvikasdwivedi/Weather-App'
     }
   ];
 
