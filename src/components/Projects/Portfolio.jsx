@@ -50,7 +50,7 @@ const Portfolio = () => {
       id: 5,
       title: 'Weather App',
       img: IMG5,
-      description: 'Weather App where user can get real time data of their current location',
+      description: 'Weather App where user can get real time data of their current location or specified location',
       technologies: 'Tech Stack : React | React Animated Weather | Weather API',
       link: 'https://jazzy-starship-b83aef.netlify.app/',
       github: 'https://github.com/itsvikasdwivedi/Weather-App'
