@@ -25,7 +25,7 @@ const Portfolio = () => {
       img: IMG2,
       description: 'The OLX is a platform for buying and selling services and goods such as electronics, fashion items, furniture, household goods, cars and bikes.',
       technologies: 'Tech Stack : React | Redux | JSON Server | Styled Components | ',
-      link: 'https://olx-cloneone.netlify.app/',
+      link: 'https://olx-clone-by-team-olx.netlify.app/',
       github: 'https://github.com/shivraj32644/Olx-Clone',
     },
     {
