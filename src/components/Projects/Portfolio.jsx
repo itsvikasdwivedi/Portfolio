@@ -4,6 +4,7 @@ import IMG2 from '../../Assets/olx.png';
 import IMG3 from '../../Assets/netmeds.png';
 import IMG4 from '../../Assets/crypto.png';
 import IMG5 from '../../Assets/weather.png';
+import IMG6 from '../../Assets/pokemon.png';
 import './portfolio.css';
 
 
@@ -11,7 +12,7 @@ const Portfolio = () => {
   const teamProjects = [
     {
       id: 1,
-      title: 'RODAN & FEILDS',
+      title: 'rodan & fields',
       img: IMG1,
       description:
         'Rodan & Fields is an American MLM Company specializing in skincare products.',
@@ -21,7 +22,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: 'OLX.IN',
+      title: 'olx',
       img: IMG2,
       description: 'The OLX is a platform for buying and selling services and goods such as electronics, fashion items, furniture, household goods, cars and bikes.',
       technologies: 'Tech Stack : React | Redux | JSON Server | Styled Components | ',
@@ -30,7 +31,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: 'NETMEDS',
+      title: 'netmeds',
       img: IMG3,
       description: 'Netmeds is one of India’s most trusted pharmacies, dispensing quality medicines at reasonable prices.',
       technologies: ' Tech Stack : React | Redux | Javascript | React.js | Chakra UI | Redux | Mongo Db |  Express',
@@ -39,7 +40,7 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: 'Crypto App',
+      title: 'crypto app',
       img: IMG4,
       description: 'App where user can get all the information about their favorite crypto currencies',
       technologies: 'Tech Stack : React | Redux | React-Chart Js | Material UI ',
@@ -48,13 +49,22 @@ const Portfolio = () => {
     },
     {
       id: 5,
-      title: 'Weather App',
+      title: 'weather App',
       img: IMG5,
       description: 'Weather App where user can get real time data of their current location or specified location',
       technologies: 'Tech Stack : React | React Animated Weather | Weather API',
       link: 'https://jazzy-starship-b83aef.netlify.app/',
       github: 'https://github.com/itsvikasdwivedi/Weather-App'
-    }
+    },
+    {
+      id: 6,
+      title: 'pokemon App',
+      img: IMG6,
+      description: 'Web application for Pokemon Catalogue',
+      technologies: 'Tech Stack : Next.js | React | GraphQL | Apollo GraphQL',
+      link: 'https://pokedex-app-278.vercel.app/',
+      github: 'https://github.com/itsvikasdwivedi/pokedex-app'
+    },
   ];
 
   return (
