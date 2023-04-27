@@ -25,11 +25,10 @@ const Intro = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>3+ Completed Projects</small>
+              <small>20+ Completed Projects</small>
             </article>
           </div>
-          <p>A Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
-            I’ve spent the last several months in a remote environment, working with HTML, CSS, JavaScript,React JS, Chakra-UI,MAterial-UI , MongoDb, NodeJS and many more, building everything from landing pages to APIs.</p>
+          <p>Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.I'd love a position where I can use my skills to make an impact that I can see with my own eyes. I have been honing my web development skills and looking for a position where I can continue to exercise those skills</p>
           <a href="#contact" className="btn btn-primary">Hire Me</a>
         </div>
       </div>
