@@ -28,7 +28,11 @@ const Intro = () => {
               <small>20+ Completed Projects</small>
             </article>
           </div>
-          <p>Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.I'd love a position where I can use my skills to make an impact that I can see with my own eyes. I have been honing my web development skills and looking for a position where I can continue to exercise those skills</p>
+          <p>A Software Developer, skilled in Full Stack Web Development.
+            Known for creating dynamic, user-friendly applications.
+            Collaborative team player with a track record
+            of delivering high-quality solutions. Eager to contribute to
+            innovative projects and drive technological advancements.</p>
           <a href="#contact" className="btn btn-primary">Hire Me</a>
         </div>
       </div>

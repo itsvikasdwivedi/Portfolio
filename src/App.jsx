@@ -1,12 +1,11 @@
 import React from 'react';
-import Contact from './Components/Contact/Contact';
-import Experience from './Components/Experience/Experience';
-import Footer from './Components/Footer/Footer';
-import Header from './Components/Header/Header';
-import Intro from './Components/Intro/Intro';
-import Portfolio from './Components/Projects/Portfolio';
-import Topbar from './Components/Topbar/Topbar';
-
+import Contact from './components/contact/Contact';
+import Skills from './components/skills/Skills';
+import Footer from './components/footer/Footer';
+import Header from './components/header/Header';
+import Intro from './components/intro/Intro';
+import Portfolio from './components/Projects/Portfolio';
+import Topbar from './components/topbar/Topbar';
 
 const App = () => {
   return (
@@ -14,7 +13,7 @@ const App = () => {
       <Header />
       <Topbar />
       <Intro />
-      <Experience />
+      <Skills/>
       <Portfolio />
       <Contact />
       <Footer />

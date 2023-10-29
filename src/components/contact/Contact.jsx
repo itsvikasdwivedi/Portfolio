@@ -6,6 +6,7 @@ import './contact.css';
 const Contact = () => {
   const [message, setMessage] = useState(false);
   const formRef = useRef();
+  
   const handleSubmit = (e) => {
     e.preventDefault();
     setMessage(true);
