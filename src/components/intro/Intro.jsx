@@ -28,8 +28,8 @@ const Intro = () => {
               <small>20+ Completed Projects</small>
             </article>
           </div>
-          <p>A Software Developer, skilled in Full Stack Web Development.
-            Known for creating dynamic, user-friendly applications.
+          <p>A Software Developer, skilled in both frontend and backend development.
+            Known for creating dynamic, user-friendly web applications.
             Collaborative team player with a track record
             of delivering high-quality solutions. Eager to contribute to
             innovative projects and drive technological advancements.</p>
